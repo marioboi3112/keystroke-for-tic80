@@ -1,3 +1,9 @@
+--title:keystroke for lua
+--author:marioboi3112
+--desc: simple code to make keystrokes for TIC-80
+
+
+
 local keys = { --variables for the keystroke
 			wX = 10,
 			wY = 4,
