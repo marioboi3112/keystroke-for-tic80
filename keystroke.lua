@@ -2,7 +2,8 @@
 --author:marioboi3112
 --desc: simple code to make keystrokes for TIC-80
 
---UPDATE: code can now be accessed as a class for more flexibilty or you can edit the table keys yourself :)
+--UPDATE: code can now be used as a library meaning all you need to do is require this file,
+-- make a new instance of the keystroke class and call the render method on the instane :)
 function Keystroke()
 return{
 	local keys = { --variables for the keystroke
